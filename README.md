@@ -2,7 +2,7 @@
 
 **December 2021**
 
-Technologies Used: Python, Covid-19 Tracker API, Flask, Discord Developer Portal, Repl.it
+**Technologies Used**: Python, Covid-19 Tracker API, Flask, Discord Developer Portal, Repl.it
 
 Launched an interactive bot in a discord server that interprets user commands and returns statistics retrieved using the Covid-19 Tracker API. Using the information in the API, this bot can return the following for every Canadian province and Canada as a whole: Total Covid-19 Cases, Fatalitie, Vaccinations Administere, Vaccinated People, and Boosters Administered.
 
