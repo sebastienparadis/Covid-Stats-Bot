@@ -8,4 +8,4 @@ Launched an interactive bot in a discord server that interprets user commands an
 
 To initialize a command, the user must start the command with a "#". This is followed by the one-word call for the specific statistic, then seperated by a whitespace, the two-character provincial code or the full spelling of "Canada" for the provincial or national statistic, respectively.
 
-e.g. To return the total Covid-19 Vaccinations Administered statistic for Manitoba, the user would send the following command to the Covid Stats Bot: "#Vaccinations MB"
+<img width="1012" alt="Screen Shot 2021-12-30 at 9 58 29 PM" src="https://user-images.githubusercontent.com/96848854/147800525-99947893-19ce-4864-8bd1-cb116e5ffea9.png">
